@@ -1,55 +1,63 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:62D84E&height=200&section=header&text=Akhil&fontSize=56&fontColor=ffffff&desc=ServiceNow%20%7C%20Workflow%20Automation%20%7C%20ECE&descSize=18&descAlignY=65" width="100%"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=62D84E&center=true&vCenter=true&width=720&lines=Hi,+I'm+Akhil+%F0%9F%91%8B;ServiceNow+Developer+in+the+making;ECE+brain+%2B+Workflow+builder" alt="typing" />
+### Akhil
+**ServiceNow Developer in the making**
+Final-year ECE undergrad @ GVPCE(A). Electronics background, building workflows on the Now Platform.
 
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akhilpasumarthi80093@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-pasumarthi-95a82b2b4/)
+[![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilpasumarthi80093@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhil111891)
 
 </div>
 
 ---
 
-## 🎫 INC0000001: Developer Profile
+## ⚡ Featured Projects
 
-| Field | Value |
+| | |
 |---|---|
-| **Caller** | Akhil |
-| **Category** | Software > ServiceNow Development |
-| **Location** | Visakhapatnam, India |
-| **Education** | B.Tech ECE, GVPCE(A), Class of 2027 |
-| **State** | 🟢 Open to Junior ServiceNow Developer roles |
-| **Work notes** | Electronics background, so I think in systems, signals and workflows |
+| **🚇 Digital Metro Ticketing**<br>**ServiceNow app with QR-code tickets**<br>Metro ticket booking built on a ServiceNow PDI.<br>`ServiceNow` `Flow Designer` `Scripting`<br>🚧 *In progress* | **🔌 Smart EV Charging Platform**<br>**FLOW MASTERS hackathon project**<br>EV charging platform on ServiceNow with Gemini REST integration.<br>`ServiceNow` `REST API` `Gemini`<br>🚧 *In progress* |
 
 ---
 
-## 🩺 Instance Health (Tech Stack)
+## 🧰 Tech Stack
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🚧 Currently Building
-- 🚇 Digital metro ticketing on ServiceNow
-- 🔌 Smart EV charging platform on ServiceNow
-
-## 🗺️ Roadmap
-- [x] ServiceNow PDI setup
-- [ ] Push my first project to GitHub
-- [ ] Land a Junior ServiceNow Developer role 🎯
+![ServiceNow](https://img.shields.io/badge/SERVICENOW-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🏅 Activities
+<!--
+## 📈 Metrics (uncomment after you have more commits)
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=akhil111891&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=akhil111891&theme=tokyonight)
+
+</div>
+
+---
+-->
+
+## 🎓 Education & Activities
+
+**B.Tech, Electronics & Communication Engineering**, Gayatri Vidya Parishad College of Engineering (A), Visakhapatnam | 2027
+
+<details>
+<summary>🤝 Leadership & Activities</summary>
+
 - Former Director of Photography, Rotaract Club 📸
+
+</details>
 
 ---
 
 <div align="center">
 
-*"Build flows, not just features."*
+*Build workflows. Make them reliable. Keep learning.*
 
 </div>
