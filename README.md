@@ -1,63 +1,75 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:62D84E&height=200&section=header&text=Akhil&fontSize=56&fontColor=ffffff&desc=ServiceNow%20%7C%20Workflow%20Automation%20%7C%20ECE&descSize=18&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:032D42,100:62D84E&height=220&section=header&text=Akhil&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ServiceNow%20Developer%20%7C%20Workflow%20Automation%20%7C%20ECE&descSize=17&descAlignY=60" width="100%"/>
 
 <div align="center">
 
-### Akhil
-**ServiceNow Developer in the making**
-Final-year ECE undergrad @ GVPCE(A). Electronics background, building workflows on the Now Platform.
+**Building workflows on the Now Platform**
+Final-year ECE undergrad @ GVPCE(A) with an electronics mindset: systems, signals, and clean automation.
 
-[![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhilpasumarthi80093@gmail.com)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhil111891)
+[![Email](https://img.shields.io/badge/EMAIL-032D42?style=for-the-badge&logo=gmail&logoColor=62D84E)](mailto:akhilpasumarthi80093@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-032D42?style=for-the-badge&logo=linkedin&logoColor=62D84E)](https://www.linkedin.com/in/akhil-pasumarthi-95a82b2b4/)
+[![GitHub](https://img.shields.io/badge/GITHUB-032D42?style=for-the-badge&logo=github&logoColor=62D84E)](https://github.com/akhil111891)
 
 </div>
 
 ---
 
-## ⚡ Featured Projects
+## 🧭 At a Glance
 
 | | |
 |---|---|
-| **🚇 Digital Metro Ticketing**<br>**ServiceNow app with QR-code tickets**<br>Metro ticket booking built on a ServiceNow PDI.<br>`ServiceNow` `Flow Designer` `Scripting`<br>🚧 *In progress* | **🔌 Smart EV Charging Platform**<br>**FLOW MASTERS hackathon project**<br>EV charging platform on ServiceNow with Gemini REST integration.<br>`ServiceNow` `REST API` `Gemini`<br>🚧 *In progress* |
+| **Focus** | ServiceNow development and workflow automation |
+| **Education** | B.Tech ECE, Gayatri Vidya Parishad College of Engineering (A), Visakhapatnam, 2027 |
+| **Currently** | Building on a ServiceNow Personal Developer Instance (PDI) |
+| **Open to** | Junior ServiceNow Developer roles |
 
 ---
 
-## 🧰 Tech Stack
+## 🔄 How I Think About Workflows
 
-![ServiceNow](https://img.shields.io/badge/SERVICENOW-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#032D42','primaryTextColor':'#ffffff','primaryBorderColor':'#62D84E','lineColor':'#62D84E','fontFamily':'monospace'}}}%%
+flowchart LR
+    A[Commuter Request] --> B[Service Portal / Catalog]
+    B --> C[Flow Designer]
+    C --> D{Validation}
+    D -->|Valid| E[Generate QR Ticket]
+    D -->|Invalid| F[Notify User]
+    E --> G[Ticket Delivered]
+```
+
+---
+
+## 🚀 Projects
+
+| Project | What it solves | Built with | Status |
+|---|---|---|---|
+| **🚇 Digital Metro Ticketing** | Book metro tickets digitally and get a QR-code ticket | `ServiceNow` `Flow Designer` `Scripting` | 🟡 In progress |
+| **🔌 Smart EV Charging Platform** | EV charging management, built for the FLOW MASTERS hackathon | `ServiceNow` `REST API` `Gemini` | 🟡 In progress |
 
 ---
 
-<!--
-## 📈 Metrics (uncomment after you have more commits)
-<div align="center">
+## 🧰 Toolkit
 
-![Stats](https://github-readme-stats.vercel.app/api?username=akhil111891&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=akhil111891&theme=tokyonight)
-
-</div>
+| Layer | Tools |
+|---|---|
+| **Platform** | ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white) ![Flow Designer](https://img.shields.io/badge/Flow_Designer-032D42?style=flat-square) |
+| **Integration** | ![REST](https://img.shields.io/badge/REST_APIs-032D42?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini_API-032D42?style=flat-square) |
+| **Scripting** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Version control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
--->
 
-## 🎓 Education & Activities
+## 🗺️ Roadmap
 
-**B.Tech, Electronics & Communication Engineering**, Gayatri Vidya Parishad College of Engineering (A), Visakhapatnam | 2027
+- [x] ServiceNow PDI set up
+- [ ] Push Metro Ticketing project to GitHub with README and screenshots
+- [ ] Submit the FLOW MASTERS hackathon project
+- [ ] Connect PDI to GitHub using Source Control
 
-<details>
-<summary>🤝 Leadership & Activities</summary>
+---
+
+## 🤝 Activities
 
 - Former Director of Photography, Rotaract Club 📸
 
-</details>
-
----
-
-<div align="center">
-
-*Build workflows. Make them reliable. Keep learning.*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:62D84E,100:032D42&height=100&section=footer" width="100%"/>
